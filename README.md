@@ -1,3 +1,3 @@
 # Hey, I'm Calob.
 
-> Under construction
+> and I don't have anything cool to show here outside of an NDA.
