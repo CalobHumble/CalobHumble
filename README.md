@@ -1,5 +1,5 @@
 <h1 align="center">heya 👋🏼, it's calob </h1>
-<h3 align="center">software enigneer out of indiana</h3>
+<h3 align="center">software enigneer traveling the states</h3>
 
 ## a little about me
 
